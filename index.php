@@ -99,7 +99,7 @@
                     <div class="row">
                         <div class="single-top-feature opening-hours">
                             <span class="fa fa-clock-o"></span>
-                            <h3>Opening Hours</h3>
+                            <h3>Test instance: <?= gethostname() ?></h3>
                             <p>Open All seven days of the week.</p>
                             <ul class="opening-table">
                                 <li>
